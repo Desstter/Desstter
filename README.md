@@ -2,7 +2,7 @@
 
 **Full-stack developer** from Cali, Colombia 🇨🇴 · 6+ years building web, mobile & automation solutions
 
-> 💼 **Open to work** — sanhurtadolopez@outlook.com · [LinkedIn](https://linkedin.com/in/santiago-hurtado)
+> 💼 **Open to work** — sanhurtadolopez@outlook.com · [LinkedIn](https://www.linkedin.com/in/santiagohurtadolopez)
 
 ---
 
@@ -56,6 +56,6 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-hurtado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagohurtadolopez)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:sanhurtadolopez@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Desstter)
