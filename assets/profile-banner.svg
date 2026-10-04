@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Santiago Hurtado — Full-stack developer</title>
+  <desc id="desc">Dark editorial banner with violet and teal orbital artwork. Web, mobile and intelligent tools. Based in Cali, Colombia.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111127"/><stop offset="1" stop-color="#090f1e"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".28"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".055"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="420" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <circle cx="1040" cy="170" r="350" fill="url(#glow)"/>
+    <rect x="1" y="1" width="1278" height="418" rx="23" fill="none" stroke="#31314d"/>
+    <rect x="64" y="56" width="38" height="4" rx="2" fill="url(#accent)"/>
+    <text x="118" y="63" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#c4b5fd">DESSTTER / SOFTWARE DEVELOPER</text>
+    <text x="62" y="154" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#f8fafc">Santiago Hurtado</text>
+    <text x="65" y="204" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#c4b5fd">Full-stack developer.</text>
+    <text x="65" y="248" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#b3bdd1">Web, mobile &amp; intelligent tools.</text>
+    <rect x="65" y="290" width="188" height="36" rx="18" fill="#1d1735" stroke="#574478"/>
+    <text x="159" y="313" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#ddd6fe">IDEA → PRODUCT</text>
+    <circle cx="75" cy="369" r="4" fill="#2dd4bf"/>
+    <text x="89" y="374" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#94a3b8">CALI, COLOMBIA</text>
+    <text x="1215" y="374" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#94a3b8">BUILD WITH PURPOSE.</text>
+    <g transform="translate(1020 202)">
+      <circle r="124" fill="none" stroke="#a78bfa" stroke-opacity=".18"/>
+      <circle r="151" fill="none" stroke="#a78bfa" stroke-opacity=".10" stroke-dasharray="3 10"/>
+      <ellipse rx="167" ry="62" transform="rotate(-34)" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".65"/>
+      <ellipse rx="167" ry="62" transform="rotate(34)" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".35"/>
+      <rect x="-70" y="-70" width="140" height="140" rx="35" fill="#15192c" stroke="url(#accent)" stroke-width="1.5"/>
+      <text x="0" y="18" text-anchor="middle" font-family="Consolas,monospace" font-size="54" font-weight="700" fill="#f8fafc">&lt;/&gt;</text>
+      <circle cx="-135" cy="78" r="7" fill="#2dd4bf"/>
+      <circle cx="130" cy="-78" r="7" fill="#a78bfa"/>
+      <circle cx="93" cy="96" r="4" fill="#d8b4fe"/>
+      <circle cx="-77" cy="-104" r="4" fill="#5eead4"/>
+    </g>
+  </g>
+</svg>

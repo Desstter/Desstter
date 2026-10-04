@@ -1,128 +1,128 @@
-<h1 align="center">Santiago Hurtado</h1>
-
 <p align="center">
-  <strong>Full-Stack Developer</strong> · Cali, Colombia 🇨🇴<br/>
-  6+ years building web, mobile & automation solutions
+  <img src="./assets/profile-banner.svg" alt="Santiago Hurtado — Full-stack developer. Web, mobile and intelligent tools." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santiagohurtadolopez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sanhurtadolopez@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Desstter&style=flat&color=6e40c9&label=profile+views"/>
+  <strong>From a real problem to a working product.</strong><br />
+  Full-stack development · Android · AI integrations<br />
+  Cali, Colombia 🇨🇴 · 6+ years building web, mobile & automation solutions
 </p>
 
 <p align="center">
-  <em>💼 Open to work — available for full-time, freelance or remote roles</em>
-</p>
-
----
-
-## About me
-
-I build things end-to-end — from database schema to deployed UI. My focus is on writing code that works correctly, is easy to maintain, and actually solves the problem at hand. I gravitate toward TypeScript, React, and Python, but I pick whatever tool fits the job.
-
-Outside of professional work I build tools I actually use: a typing trainer, a MIDI piano tutor, physics simulations, finance trackers. If I find something annoying or missing, I build it.
-
----
-
-## Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Mobile & Tools**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white)
-![Web MIDI API](https://img.shields.io/badge/Web_MIDI_API-FF6B6B?style=flat&logo=googlechrome&logoColor=white)
-
----
-
-## Projects
-
-### Production & Client Work
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [hyr](https://github.com/Desstter/hyr) | Full-stack construction workforce management system with Colombian payroll compliance (DIAN/PILA) | Next.js · Express · PostgreSQL |
-| [nails](https://github.com/Desstter/nails) | Nail salon management app — appointments, inventory, client records | Next.js · TypeScript |
-| [Automatic-Finances](https://github.com/Desstter/Automatic-Finances) | Android app that auto-parses Bancolombia SMS notifications with ML transaction categorization | Kotlin · Compose · Room |
-| [cvgenerator](https://github.com/Desstter/cvgenerator) | AI-powered CV generator with Claude, GPT-4 & Gemini as backend models | Python · FastAPI · Anthropic |
-
-### Interactive Tools
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [wave-physics-viz](https://github.com/Desstter/wave-physics-viz) | Wave physics simulator with real-time D3 rendering and KaTeX equations — propagation, spectrums, material interaction | React · TypeScript · D3 · KaTeX |
-| [massage-therapy-app](https://github.com/Desstter/massage-therapy-app) | Anatomy and technique reference for massage therapy students — muscles, nerve paths, fascial lines, flashcards | React · TypeScript · Tailwind |
-| [piano-midi-maestro](https://github.com/Desstter/piano-midi-maestro) | Browser piano tutor with MIDI keyboard support — notes, chords, scales, intervals, real Salamander piano samples | HTML · JS · Web MIDI API · Web Audio API |
-| [typeforge](https://github.com/Desstter/typeforge) | Single-file touch typing trainer — accuracy-first, stage-gated progression, zero dependencies | HTML · Vanilla JS |
-| [juego-de-la-suerte](https://github.com/Desstter/juego-de-la-suerte) | Candidate scoring simulator: 95% effort + 5% luck, streaming mode for millions of records | Vanilla JS |
-
-### Tech Tests & Learning
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Kuepa-Front-Test](https://github.com/Desstter/Kuepa-Front-Test) | Frontend technical test for Kuepa | TypeScript |
-| [kawak-test](https://github.com/Desstter/kawak-test) | Technical test for Kawak | Vue.js |
-| [Kuepa-test](https://github.com/Desstter/Kuepa-test) | Technical test for Kuepa | Vue.js |
-| [talentu](https://github.com/Desstter/talentu) | Talent management platform frontend | Vue.js |
-| [nasa-api](https://github.com/Desstter/nasa-api) | NASA Open API explorer — APOD, asteroids, Mars rover photos | JavaScript |
-| [countries-api](https://github.com/Desstter/countries-api) | REST Countries API explorer | JavaScript |
-| [superheroes-api](https://github.com/Desstter/superheroes-api) | Superheroes REST API explorer | JavaScript |
-| [coviddaily](https://github.com/Desstter/coviddaily) | COVID-19 stats tracker | Vue.js |
-| [rock-paper-scissor](https://github.com/Desstter/rock-paper-scissor) | Rock Paper Scissors game | JavaScript |
-| [tetris-redbull](https://github.com/Desstter/tetris-redbull) | Tetris clone | Python |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Desstter&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desstter&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165"/>
+  <a href="https://www.linkedin.com/in/santiagohurtadolopez"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B5CF6?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sanhurtadolopez@outlook.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-Email-14B8A6?style=for-the-badge" alt="Send me an email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Desstter&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp;·&nbsp;
+  <a href="#lets-build-something-useful">Work with me</a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiagohurtadolopez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sanhurtadolopez@outlook.com">
-    <img src="https://img.shields.io/badge/sanhurtadolopez@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Desstter">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
+## Hi, I'm Santiago
+
+I build software from the database to the interface: web applications, Android apps and automation tools. I enjoy turning complex workflows into products people can understand and use.
+
+My projects span construction management, personal finance, AI-assisted document generation and interactive learning. I work mainly with **TypeScript, React, Python and Kotlin**, choosing the stack that fits the problem.
+
+Outside client work, I build things I use myself: a MIDI piano tutor, a typing trainer and physics visualizations. Curiosity usually becomes a new repository.
+
+## Selected work
+
+Six projects that show how I build across business software, mobile development and creative interfaces.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · HYR</h3>
+      <p><strong>Business workflows, connected.</strong></p>
+      <p>A construction management system bringing personnel, payroll, projects, expenses and reporting into one application.</p>
+      <p><code>Next.js</code> <code>Express</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/Desstter/hyr">Explore the project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Automatic Finances</h3>
+      <p><strong>Less entry. More clarity.</strong></p>
+      <p>An Android finance app that turns bank notifications into categorized transactions, with AI-assisted voice entry and spending analytics.</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>Gemini</code></p>
+      <p><a href="https://github.com/Desstter/Automatic-Finances">Explore the project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · CV Generator</h3>
+      <p><strong>AI with a review step.</strong></p>
+      <p>Tailor a CV to a job description using multiple AI providers, with claim checks, document previews and PDF export.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>LLM APIs</code> <code>PDF</code></p>
+      <p><a href="https://github.com/Desstter/cvgenerator">Explore the project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Wave Physics Visualizer</h3>
+      <p><strong>Make the equations visible.</strong></p>
+      <p>Explore wave propagation, reflection and material interaction through live simulations, adjustable controls and rendered equations.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>D3.js</code> <code>KaTeX</code></p>
+      <p><a href="https://github.com/Desstter/wave-physics-viz">Explore the project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · Piano MIDI Maestro</h3>
+      <p><strong>Practice meets the browser.</strong></p>
+      <p>An interactive piano tutor with MIDI input, sampled piano audio and exercises for notes, chords, scales and intervals.</p>
+      <p><code>JavaScript</code> <code>Web MIDI</code> <code>Web Audio</code></p>
+      <p><a href="https://github.com/Desstter/piano-midi-maestro">Explore the project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · TypeForge</h3>
+      <p><strong>A small tool with a clear purpose.</strong></p>
+      <p>A self-contained typing trainer with accuracy-based progression, targeted drills and local progress storage. Runs offline with no dependencies.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Vanilla JavaScript</code></p>
+      <p><a href="https://github.com/Desstter/typeforge">Explore the project →</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/Desstter?tab=repositories">Browse all public projects ↗</a></p>
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
 </p>
+
+| Area | Technologies I work with |
+| :--- | :--- |
+| **Web interfaces** | React · Next.js · Vue.js · Tailwind CSS · Vite |
+| **APIs & data** | Node.js · Express · FastAPI · PostgreSQL · .NET |
+| **Android** | Kotlin · Jetpack Compose · Room · Coroutines |
+| **AI & automation** | LLM API integrations · Python · Document generation |
+| **Interactive experiences** | D3.js · Canvas · Web Audio · Web MIDI |
+| **Delivery** | Git · GitHub Actions · Linux · Caddy · PM2 |
+
+<details>
+  <summary><strong>More projects & experiments</strong></summary>
+
+  - [Nails](https://github.com/Desstter/nails) — Salon management with Next.js and TypeScript.
+  - [Massage Therapy App](https://github.com/Desstter/massage-therapy-app) — Interactive anatomy and technique reference.
+  - [Juego de la Suerte](https://github.com/Desstter/juego-de-la-suerte) — Explore effort and luck through a candidate scoring simulator.
+  - [NASA API](https://github.com/Desstter/nasa-api) — A JavaScript explorer for NASA's open APIs.
+  - [Countries API](https://github.com/Desstter/countries-api) — Explore country data through a REST API.
+
+</details>
+
+---
+
+## Let's build something useful
+
+I'm open to **full-time, freelance and remote opportunities** involving web development, Android or automation. If you have a product to build or a workflow to simplify, let's talk.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/santiagohurtadolopez)** · **[sanhurtadolopez@outlook.com](mailto:sanhurtadolopez@outlook.com)**
+
+<p align="center"><sub>Santiago Hurtado · Desstter · Cali, Colombia</sub></p>
